@@ -194,24 +194,25 @@
     margin-top: 0.8vh;
 }
 #div-cerrar-gg{
-    margin-left: 2vw;
+    margin-left: 3vw;
     margin-top: 6vh;
     height:6vh;
-    width:15.5vw;
+    width:14.5vw;
     background-color: #1f1e27;
+    border-radius: 6px;
 }
 #texto-salir{
     position: absolute;
     font-family:Arial, Helvetica, sans-serif;
     color: white;
-    font-size: 1vw;
+    font-size: 0.8vw;
     margin-left: 1.5vw;
-    margin-top: 1.8vh;
+    margin-top: 2vh;
 }
 #image-salir{
     position: absolute;
     margin-top: 1vh;
-    margin-left: 13.5vw;
+    margin-left: 12.5vw;
     height: 4vh;
     width: 1.7vw;
 }
@@ -253,7 +254,7 @@
     position: absolute;
 }
 #div-junta-directiva{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(images/retrato-del-hombre-feliz-que-se-sienta-en-el-escritorio-de-oficina-mirando-la-cámara-sonriendo-134499392.jpg);
+    background-image:linear-gradient(rgba(61, 61, 61, 0.6), rgba(0, 0, 0,10)), url(images/retrato-del-hombre-feliz-que-se-sienta-en-el-escritorio-de-oficina-mirando-la-cámara-sonriendo-134499392.jpg);
     border-color:red ;
     border-radius: 10px;
     margin-left: 2vw;
@@ -485,7 +486,7 @@
     margin-top: 13vh;
     margin-left: 3vw;
     position: relative;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(images/abstract-3d-black-technology-wallpaper-preview.jpg);
+    background-image:linear-gradient(rgba(61, 61, 61, 0.6), rgba(0, 0, 0, 0.4)), url(images/abstract-3d-black-technology-wallpaper-preview.jpg);
     background-position:center ;
 }
 #text-bienvenido-jorge{
